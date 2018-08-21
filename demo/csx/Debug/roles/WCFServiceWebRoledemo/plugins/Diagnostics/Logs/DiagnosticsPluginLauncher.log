@@ -1,0 +1,17 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [21-Aug-18 3:45:10 AM] Emulator config file set to C:\Users\tuant\source\repos\demo\demo\csx\Debug\roles\WCFServiceWebRoledemo\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [21-Aug-18 3:45:10 AM] DiagnosticsStoreRootPath set to: C:\Users\tuant\AppData\Local\dftmp\Resources\934f5c95-2050-48d8-93fc-c99880961152
+DiagnosticsPluginLauncher.exe Information: 0 : [21-Aug-18 3:45:10 AM] Loading config file: C:\Users\tuant\source\repos\demo\demo\csx\Debug\roles\WCFServiceWebRoledemo\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [21-Aug-18 3:45:10 AM] Config file to read: C:\Users\tuant\source\repos\demo\demo\csx\Debug\roles\WCFServiceWebRoledemo\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [21-Aug-18 3:45:10 AM] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [21-Aug-18 3:45:10 AM] Emulator config file set to C:\Users\tuant\source\repos\demo\demo\csx\Debug\roles\WCFServiceWebRoledemo\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [21-Aug-18 3:45:10 AM] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [21-Aug-18 3:45:10 AM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [21-Aug-18 3:45:10 AM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [21-Aug-18 3:45:10 AM] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [21-Aug-18 3:45:10 AM] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [21-Aug-18 3:45:10 AM] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [21-Aug-18 3:45:10 AM] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [21-Aug-18 3:45:10 AM] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [21-Aug-18 3:45:10 AM] Resetting DiagnosticPlugin
+DiagnosticsPluginLauncher.exe Information: 0 : [21-Aug-18 3:46:20 AM] DiagnosticsPlugin launched successfully with new configuration
+DiagnosticsPluginLauncher.exe Information: 0 : [21-Aug-18 3:46:20 AM] DiagnosticPlugin exited with code 0
